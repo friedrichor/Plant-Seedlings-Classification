@@ -9,6 +9,8 @@ There are a machine learning method to complete the Kaggle Competition Plant See
 代码讲解：[Kaggle图像识别竞赛 Plant Seedlings Classification（植物幼苗分类）具体实现](https://blog.csdn.net/Friedrichor/article/details/122248139)  
 预备知识/参考资料：[Plant Seedlings Classification(机器学习实现)预备知识&函数](https://blog.csdn.net/Friedrichor/article/details/121737819)  
 
+这个代码是很久之前的了，有些地方可能有点乱，还有一些代码注释掉了，有些地方如果你是第一次运行的话需要把 “#” 去掉跑一下，自己注意一下。
+
 ## Related Issues
 
 ### bow_init()相关问题
